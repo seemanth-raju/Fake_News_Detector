@@ -36,8 +36,8 @@ def build_model():
     output = Dense(1, activation='sigmoid')(combined)
     
     return Model(inputs=[sequence_input, feature_input], outputs=output)
+```
 
-'''
 
 ## 📊 Performance Metrics
 
@@ -55,9 +55,10 @@ def build_model():
 # 🛠️ Installation
 ## Prerequisites
 # Clone repository
+```
 git clone https://github.com/yourusername/fake-news-detection.git
 cd fake-news-detection
-
+```
 # Training the model 
 ## Run the cells in the fake_news.ipynb file
 ## Run the test.py file with appropiriate paths
