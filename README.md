@@ -9,9 +9,6 @@
 ## 📌 Table of Contents
 - [Model Architecture](#-model-architecture)
 - [Installation](#-installation)
-- [Usage](#-usage)
-- [Dataset](#-dataset)
-- [Results](#-results)
 - [License](#-license)
 
 ## 🏗️ Model Architecture
